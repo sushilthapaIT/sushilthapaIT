@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sushilthapaIT
 - 👀 I’m interested in web development and everythings related to IT.
 - 🌱 I’m currently learning computing.
-- 📫 How to reach me --> sushilthapait@gmail.com
+- 📫 How to reach me --> thapssushilit@gmail.com
 
 <!---
 sushilthapaIT/sushilthapaIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
