@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushilthapaIT
-- 👀 I’m interested in web development and everythings related to IT.
-- 🌱 I’m currently learning computing.
+- 👀 I’m interested in web development, python, and everything related to IT.
+- 🌱 I’m currently learning Full Stack Software Development.
 - 📫 How to reach me --> thapasushilit@gmail.com
 
 <!---
